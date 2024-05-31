@@ -36,7 +36,7 @@ To get started with the Frontend CMS project, you'll need to have Node.js and np
 
    ```sh
    git clone https://github.com/Coding-Mohamed/Frontend-CMS
-   cd your-repo
+   cd Frontend-CMS
    ```
 
 2. **Install Dependencies**
